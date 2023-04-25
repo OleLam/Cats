@@ -1,4 +1,16 @@
 h2 {
-    color: purple;
+    color: blue;
+    background-color: papayawhip;
 
+}
+
+button {
+    color: teal;
+    background-color: cyan;
+
+}
+
+p {
+    color: olive;
+    background: orange;
 }
