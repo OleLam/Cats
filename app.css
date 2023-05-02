@@ -1,16 +1,13 @@
-h2 {
-    color: blue;
-    background-color: papayawhip;
-
-}
-
-button {
-    color: teal;
-    background-color: cyan;
-
+h1 {
+    text-align: center;
+    width: 50%;
+    color: lightblue;
+    font-weight: 400;
+    text-decoration: #f78120 underline wavy;
+    letter-spacing: 10px;
 }
 
 p {
-    color: olive;
-    background: orange;
+    font-weight: 100;
+    line-height: 1;
 }
