@@ -5,9 +5,41 @@ h1 {
     font-weight: 400;
     text-decoration: #f78120 underline wavy;
     letter-spacing: 10px;
+    font-size: 40px;
+    font-family: segoe UI;
 }
 
 p {
     font-weight: 100;
     line-height: 1;
+}
+
+* {
+    background-color: #f1faee;
+}
+
+h1,
+h2 {
+    color: darkslateblue;
+}
+
+h3,
+h4 {
+    color: brown;
+}
+
+
+button {
+    font-size: 30px;
+    background: #a8dadc;
+}
+
+#Enter {
+    background-color: #f78120;
+}
+
+.tag {
+    background-color: #e63946;
+    color: #f1faee;
+    font-size: 20px;
 }
