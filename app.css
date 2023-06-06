@@ -64,3 +64,15 @@ button:active {
 div:nth-of-type(3) {
     background-color: #f78120;
 }
+
+h2::first-letter {
+    font-size: 50px;
+}
+
+p::first-line {
+    color: purple;
+}
+
+p::selection {
+    background-color: #fcbf49;
+}
