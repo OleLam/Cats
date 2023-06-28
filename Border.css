@@ -48,4 +48,23 @@ h2 {
 button {
     padding: 10px 20px;
     color: aqua;
+    border-radius: 0, 5px;
+    font-size 1em;
+    background-color: #2a9d8f;
+}
+
+ul {
+    font-size: 2rem;
+}
+
+section {
+    width: 500px;
+    height: 500px;
+    background-color: lightblue;
+}
+
+#rgba {
+    width: 50%;
+    height: 50%;
+    background-color: rgba(152, 199, 207, 0.5);
 }
